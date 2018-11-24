@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth ' seems a wonderful place.',
+      'Buda-Pesth'" seems a wonderful place.',
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
