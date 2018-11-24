@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'And therefore I think I will beg your excuse and take my three turns -- my winter walk.',
   'example2':
-      'And then each saw the rope in the other's hold.',
+      'And then each saw the rope in the others hold.',
   'example3':
-      'After all it is easy enough to see what is really wrong with Wren' s architectural arrangement.'      
+      'After all it is easy enough to see what is really wrong with Wrens architectural arrangement.'      
 };
 
 function status(statusText) {
