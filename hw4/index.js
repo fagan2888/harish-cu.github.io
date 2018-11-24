@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'And therefore I think I will beg your excuse and take my three turns -- my winter walk.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'And then each saw the rope in the other's hold.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'After all it is easy enough to see what is really wrong with Wren' s architectural arrangement.'      
 };
 
 function status(statusText) {
