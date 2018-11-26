@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'And then each saw the rope in the others hold.',
   'example3':
-      'After all it is easy enough to see what is really wrong with Wrens architectural arrangement.'      
+      'It is a parable of you and all your rationalists.'      
 };
 
 function status(statusText) {
